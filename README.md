@@ -1,2 +1,2 @@
 # devsecops-portfolio
-DevSecOps learning journey - Kubernetes, Docker, CI/CD, Security
+DevSecOps- Kubernetes, Docker, CI/CD, Security
